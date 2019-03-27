@@ -6,6 +6,7 @@ class My5 {
 
   @Override
   public boolean equals(Object obj) {
+    System.out.println(getClass());
     if (this == obj) return true;
     if (obj == null) return false;
     if (getClass() != obj.getClass()) return false;
@@ -28,7 +29,6 @@ public class Test04 {
     obj2.name = "홍길동";
     obj2.age = 20;
 
-    System.out.println(obj1 == obj2);
     System.out.println(obj1.equals(obj2));
 
     // 결론!
