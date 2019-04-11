@@ -32,8 +32,12 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/day14/a/Test03.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="48">
-              <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
+            <state relative-caret-position="504">
+              <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+              <folding>
+                <element signature="e#93#94#0" expanded="true" />
+                <element signature="e#130#131#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -77,7 +81,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/src/main/java/day07/Test01.java" />
         <option value="$PROJECT_DIR$/src/main/java/day07/Test02.java" />
@@ -128,6 +131,7 @@
         <option value="$PROJECT_DIR$/src/main/java/day14/a/A.java" />
         <option value="$PROJECT_DIR$/src/main/java/day14/a/Test01.java" />
         <option value="$PROJECT_DIR$/src/main/java/day14/a/Test02.java" />
+        <option value="$PROJECT_DIR$/src/main/java/day14/a/Test03.java" />
       </list>
     </option>
   </component>
@@ -188,7 +192,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554896047810" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554981550655" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
@@ -318,12 +322,12 @@
       <workItem from="1554553284668" duration="194000" />
       <workItem from="1554631176759" duration="55000" />
       <workItem from="1554811515563" duration="617000" />
-      <workItem from="1554895193465" duration="612000" />
+      <workItem from="1554895193465" duration="694000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17230000" />
+    <option name="totallyTimeSpent" value="17312000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="2576" height="1416" extended-state="6" />
@@ -812,8 +816,12 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/day14/a/Test03.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="48">
-          <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
+        <state relative-caret-position="504">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+          <folding>
+            <element signature="e#93#94#0" expanded="true" />
+            <element signature="e#130#131#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
